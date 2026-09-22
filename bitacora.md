@@ -1,7 +1,7 @@
 # Bitácora de incidentes
 ## 1. Borrado accidental
 - Qué pasó: el git deja de reconocer el archivo acuerdos.md debes volver a tarer el repositorio actualizado con git pull 
-- Comando que usamos: git pull, git restore - nombre archivo que quermeos restaurar, git add, git status, git commit, git pull para subir nuevamente la ultima version del archivo que se elimino accidentalmente 
+- Comando que usamos: git pull, git restore - nombre archivo que quermeos restaurar, git add, git status, git commit, git push para subir nuevamente la ultima version del archivo que se elimino accidentalmente 
 - Resultado: Recuperacion en github del archivo acuerdos.md eliminado accidentalmente exactamente como se encontraba en el ultimo commit guardado 
 
 ## 2. El cambio que nadie pidío 
