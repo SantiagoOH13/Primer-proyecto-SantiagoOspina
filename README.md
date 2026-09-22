@@ -1,7 +1,7 @@
 # Primer-proyecto-SantiagoOspina
 Fundamentos construccion de-software Santiago Ospina
 ## Integrantes
-Saniago Coronado Pedroza.
+Santiago Coronado Pedroza.
 Maria Fernanda Casallas.
 Santiago Ospina Herrera.
 
